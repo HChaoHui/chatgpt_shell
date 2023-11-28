@@ -1,0 +1,14 @@
+{
+  "name": "chatgpt_shell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node openai.js"
+  },
+  "author": "HuangChaoHui",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
