@@ -4,7 +4,7 @@ let readline = require("readline");
 let config = require("./config/config");
 
 // 请求
-let getChatGPTMsg = require("./util/requets");
+let getChatGPTMsg = require("./util/request");
 
 // 操作方法
 let operate = require("./util/operate")
